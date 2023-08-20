@@ -1,7 +1,7 @@
 # Java
 Programas simples em linguagem Java.
 
-O programa AreaCircunferencia mede a área de uma circunferência quano o usuário informa a medida do raio.
+O programa AreaCircunferencia mede a área de uma circunferência quando o usuário informa a medida do raio.
 
 O programa IdadeCamila identifica entre três idades informadas aquela que não é nem a maior e nem a menor.
 
