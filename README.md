@@ -1,5 +1,5 @@
 # Java
-Programas simples em linguagem Java .
+Programas simples em linguagem Java.
 
 O programa AreaCircunferencia mede a área de uma circunferência quano o usuário informa a medida do raio.
 
