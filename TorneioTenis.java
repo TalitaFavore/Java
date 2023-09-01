@@ -1,5 +1,4 @@
 package com.mycompany.torneiotenis;
-
 import java.util.Scanner;
 
 /**
