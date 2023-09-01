@@ -1,5 +1,4 @@
 package com.mycompany.somaintervalo;
-
 import java.util.Scanner;
 
 /**
