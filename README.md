@@ -23,7 +23,9 @@ O programa "LataOleo1" calcula o volume da lata de óleo quando são informados 
 
 O programa "LataOleo2" calcula o volume da lata de óleo quando são informados raio e altura, usando a constante pi, e usando 'JOptionPane.showInputDialog' e JOptionPane.showMessageDialog'.
 
+O programa "Salario" calcula o valor do salário bruto, o total do desconto e o salário líquido usando os valores informados pelo usuário: qantidade de horas trabalhasdas, valor da hora trabalhada e o valor do percentual de desconto.
 
+O programa "Salario2" calcula o valor do salário bruto, o total do desconto e o salário líquido usando os valores informados pelo usuário: qantidade de horas trabalhasdas, valor da hora trabalhada e o valor do percentual de desconto. Esse código usa 'JOptionPane.showInputDialog' e JOptionPane.showMessageDialog'.
 
 O programa "SomaIntervalo" imprime quantos números dentro de um determinado intervalo tem algarismos que somados resultam na soma indicada pelo usuário.
 
@@ -33,7 +35,9 @@ O programa "AreaCircunferencia3" mede a área de uma circunferência quando o us
 
 O programa "AreaTriangulo3" calcula a área de um triângulo quando são informadas as medidas da base e altura do triângulo, usando usando uma JFrame Form (form gui swing).
 
-O programa "CelsiusFahrenheit3" converte a temperatura de Celsius para Farenheit, usando uma JFrame Form (form gui swing).
+O programa "CelsiusFahrenheit" converte a temperatura de Celsius para Farenheit, usando uma JFrame Form (form gui swing).
 
 O programa "LataOleo" calcula o volume da lata de óleo quando são informados raio e altura, usando a constante pi e usando uma JFrame Form (form gui swing).
+
+O programa "Salario1" calcula o valor do salário bruto, o total do desconto e o salário líquido usando os valores informados pelo usuário: qantidade de horas trabalhasdas, valor da hora trabalhada e o valor do percentual de desconto. Esse código usa uma JFrame Form (form gui swing).
 
