@@ -1,7 +1,7 @@
 package com.mycompany.jogodavelha;
 
 /**
- * @author Talita (area = pi * Math.pow(raio,2))
+ * @author Talita 
  */
 import javax.swing.*;
 import java.awt.*;
@@ -219,10 +219,10 @@ public class JogoDaVelha extends JFrame implements ActionListener {
     private void limparPlacar() {
         placarJogador = 0;
         placarComputador = 0;
-        placarEmpate = 0; // Zera a contagem de empates
+        placarEmpate = 0; 
         placarJogadorLabel.setText("Jogador: 0");
         placarComputadorLabel.setText("Computador: 0");
-        placarEmpateLabel.setText("Empates: 0"); // Atualiza a label de empates
+        placarEmpateLabel.setText("Empates: 0"); 
     }
 
     public static void main(String[] args) {
