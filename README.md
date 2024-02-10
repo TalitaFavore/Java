@@ -1,43 +1,61 @@
-# Java
-Programas simples em linguagem Java.
+# Programas Simples em Linguagem Java
 
-O programa "AreaCircunferencia" mede a área de uma circunferência quando o usuário informa a medida do raio.
+## 1. **AreaCircunferencia**
+   Mede a área de uma circunferência quando o usuário informa o raio.
 
-O programa "AreaTriangulo2" calcula a área de um triângulo quando são informadas as medidas da base e altura do triângulo, usando 'JOptionPane.showInputDialog' e JOptionPane.showMessageDialog'.
+## 2. **AreaTriangulo2**
+   Calcula a área de um triângulo quando são informadas as medidas da base e altura, usando `JOptionPane.showInputDialog` e `JOptionPane.showMessageDialog`.
 
-O programa "CelsiusFahrenheit1" converte a temperatura de Celsius para Farenheit.
+## 3. **CelsiusFahrenheit1**
+   Converte a temperatura de Celsius para Fahrenheit.
 
-O programa "CelsiusFahrenheit2" converte a temperatura de Celsius para Farenheit, usando 'JOptionPane.showInputDialog' e JOptionPane.showMessageDialog'.
+## 4. **CelsiusFahrenheit2**
+   Converte a temperatura de Celsius para Fahrenheit, usando `JOptionPane.showInputDialog` e `JOptionPane.showMessageDialog`.
 
-O programa "ExemploIf" é um programa simples que testa a condição para saber se o usuário é maior de idade ou não, com base na idade que ele informa.
+## 5. **ExemploIf**
+   Testa se o usuário é maior de idade com base na idade que ele informa.
 
-O programa "ExemploIf1" é um programa simples que testa a condição para classificar em 'bebê', 'criança', 'adolescente', 'adulto', ou 'idoso' com base na idade que o usuário informa.
+## 6. **ExemploIf1**
+   Classifica em 'bebê', 'criança', 'adolescente', 'adulto', ou 'idoso' com base na idade informada.
 
-O programa "IdadeCamila" identifica entre três idades informadas aquela que não é nem a maior e nem a menor.
+## 7. **IdadeCamila**
+   Identifica, entre três idades informadas, aquela que não é nem a maior e nem a menor.
 
-O programa "JogoDaVelha" é um jogo da velha com interface gráfica, jogador computador e placar. Usa botões e labels, testa as condições de vitória.
+## 8. **JogoDaVelha**
+   Jogo da velha com: interface gráfica, jogador computador e placar. Usa botões e labels e testa as condições de vitória.
 
-O programa "JogoDaVelhaConsole" é um jogo da velha no terminal, conta com jogador computador, placar e testa as condições de vitória.
+## 9. **JogoDaVelhaConsole**
+   Jogo da velha no terminal, com: jogador computador e placar, e testa as condições de vitória.
 
-O programa "LataOleo1" calcula o volume da lata de óleo quando são informados raio e altura, usando a constante pi.
+## 10. **LataOleo1**
+  Calcula o volume da lata de óleo quando são informados raio e altura, usando a constante pi.
 
-O programa "LataOleo2" calcula o volume da lata de óleo quando são informados raio e altura, usando a constante pi, e usando 'JOptionPane.showInputDialog' e JOptionPane.showMessageDialog'.
+## 11. **LataOleo2**
+   Calcula o volume da lata de óleo quando são informados raio e altura, usando a constante pi, e usando `JOptionPane.showInputDialog` e `JOptionPane.showMessageDialog`.
 
-O programa "Salario" calcula o valor do salário bruto, o total do desconto e o salário líquido usando os valores informados pelo usuário: qantidade de horas trabalhasdas, valor da hora trabalhada e o valor do percentual de desconto.
+## 12. **Salario**
+   Calcula o valor do salário bruto, o total do desconto e o salário líquido usando os valores informados pelo usuário: quantidade de horas trabalhadas, valor da hora trabalhada e o percentual de desconto.
 
-O programa "Salario2" calcula o valor do salário bruto, o total do desconto e o salário líquido usando os valores informados pelo usuário: qantidade de horas trabalhasdas, valor da hora trabalhada e o valor do percentual de desconto. Esse código usa 'JOptionPane.showInputDialog' e JOptionPane.showMessageDialog'.
+## 13. **Salario2**
+   Calcula o valor do salário bruto, o total do desconto e o salário líquido usando os valores informados pelo usuário: quantidade de horas trabalhadas, valor da hora trabalhada e o percentual de desconto. Este código usa `JOptionPane.showInputDialog` e `JOptionPane.showMessageDialog`.
 
-O programa "SomaIntervalo" imprime quantos números dentro de um determinado intervalo tem algarismos que somados resultam na soma indicada pelo usuário.
+## 14. **SomaIntervalo**
+   Imprime quantos números dentro de um determinado intervalo têm algarismos que somados resultam na soma indicada pelo usuário.
 
-O programa "TorneioTenis" indica a qual grupo o usuário pertence, levando em conta quantos torneios ele venceu.
+## 15. **TorneioTenis**
+   Indica a qual grupo o usuário pertence, levando em conta quantos torneios ele venceu.
 
-O programa "AreaCircunferencia3" mede a área de uma circunferência quando o usuário informa a medida do raio, usando uma JFrame Form (form gui swing).
+## 16. **AreaCircunferencia3**
+   Mede a área de uma circunferência quando o usuário informa o raio, usando uma JFrame Form (form gui swing).
 
-O programa "AreaTriangulo3" calcula a área de um triângulo quando são informadas as medidas da base e altura do triângulo, usando usando uma JFrame Form (form gui swing).
+## 17. **AreaTriangulo3**
+   Calcula a área de um triângulo quando são informadas as medidas da base e altura do triângulo, usando uma JFrame Form (form gui swing).
 
-O programa "CelsiusFahrenheit" converte a temperatura de Celsius para Farenheit, usando uma JFrame Form (form gui swing).
+## 18. **CelsiusFahrenheit**
+   Converte a temperatura de Celsius para Fahrenheit, usando uma JFrame Form (form gui swing).
 
-O programa "LataOleo" calcula o volume da lata de óleo quando são informados raio e altura, usando a constante pi e usando uma JFrame Form (form gui swing).
+## 19. **LataOleo**
+   Calcula o volume da lata de óleo quando são informados raio e altura, usando a constante pi e uma JFrame Form (form gui swing).
 
-O programa "Salario1" calcula o valor do salário bruto, o total do desconto e o salário líquido usando os valores informados pelo usuário: qantidade de horas trabalhasdas, valor da hora trabalhada e o valor do percentual de desconto. Esse código usa uma JFrame Form (form gui swing).
-
+## 20. **Salario1**
+   Calcula o valor do salário bruto, o total do desconto e o salário líquido usando os valores informados pelo usuário: quantidade de horas trabalhadas, valor da hora trabalhada e o percentual de desconto. Este código usa uma JFrame Form (form gui swing).
